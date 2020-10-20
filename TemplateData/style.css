@@ -3,7 +3,7 @@
 
 .webgl-content .logo, .progress {position: absolute; left: 50%; top: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%);}
 
-.webgl-content .progress {height: 10px; width: 300px; margin-bottom: 90px;}
+.webgl-content .progress {height: 10px; width: 300px; margin-top: 90px;}
 
 
 
@@ -15,6 +15,6 @@
 .webgl-content .footer .webxr-link {float: left;}
 .webgl-content .footer .title {margin-right: 10px; float: right;}
 .webgl-content .footer .enterar:enabled {background-color: #1eaed3; width: 38px; float: right;}
-.webgl-content .footer .enterar:disabled {background-color: #dddddd; width: 38px; float: right;}
+.webgl-content .footer .enterar:disabled {background-color: #000000; width: 38px; float: right;}
 .webgl-content .footer .entervr:enabled {background-color: #1eaed3; width: 38px; float: right;}
-.webgl-content .footer .entervr:disabled {background-color: #dddddd; width: 38px; float: right;}
+.webgl-content .footer .entervr:disabled {background-color: #000000; width: 38px; float: right;}
