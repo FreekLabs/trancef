@@ -21,7 +21,7 @@ a:link, a:visited {
 }
 
 #loader {
-  background: #000000;
+  background: #111111;
 }
 
 [data-unity-loaded='true'] #loader {
